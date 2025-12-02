@@ -1,6 +1,6 @@
-# BioAutoMyze: An AI Assistant for Biochemical Network Transcription
+# BioAutoCon: An AI Assistant for Biochemical Network Transcription
 
-BioAutoMyze is a multimodal AI system that converts **biological network diagrams** into **structured mathematical models**.  
+BioAutoCon is a multimodal AI system that converts **biological network diagrams** into **structured mathematical models**.  
 Given a pathway diagram (image), the system extracts:
 
 - Species / nodes  
